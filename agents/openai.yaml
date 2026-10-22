@@ -1,0 +1,4 @@
+interface:
+  display_name: "DOCX Engineer"
+  short_description: "Evidence-based Word editing and quality review"
+  default_prompt: "Use $docx-engineer to audit, edit, or verify a Word document with evidence and visual QA."
